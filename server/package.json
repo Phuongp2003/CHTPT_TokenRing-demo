@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "description": "Server của đồ án môn các hệ thông phân tán, đề tài token ring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTPT",
+    "nodejs",
+    "token-ring"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^3.1.6"
+  },
+  "devDependencies": {
+    "express": "^4.21.0"
+  }
+}
